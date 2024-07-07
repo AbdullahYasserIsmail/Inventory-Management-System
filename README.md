@@ -22,7 +22,7 @@ Hence, we had to implement to function to balance the binary trees for optimizin
 - always O(Log(N)) - thanks to this function. 
 
 Finally, to make the user experience more easier and increase his interaction, we made a GUI for this program. 
-You can find a screen recording while the GUI program was running in the repository.
+You can find a screen recording while the GUI program was running in this link: https://drive.google.com/drive/folders/1xFkoejqcx2QAhlV-lKSqib13vaaZBEg-?usp=sharing.
 
 To run the program, download the c++ files along with their header files. Run the main program and use it.
 To run the GUI version, please make sure you first have this program installed: https://www.embarcadero.com/products/cbuilder. 
