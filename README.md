@@ -7,9 +7,13 @@ progress of the program.
 The program utilizes data structures, including linked lists, stacks, queues, and trees, to efficiently manage and organize inventory information.
 It also uses OOP concepts to simulate real world object, suppliers and spare parts here in our case. 
 The following lines state the data structures used along with their function:
+
 1-Binary Trees: to store objects instantiated from both classes (supplier and spare parts).
+
 2-Linked Lists: to represent connections between the supplier and their own spare parts.
+
 3-Stacks: to store user interactions throughout the program, like a history.
+
 4-Queues: to efficiently process and update spare part and supplier data.
 
 To make the search time of the binary trees efficient, we had to make a function "generate_code" that is dedicated to creating IDs
