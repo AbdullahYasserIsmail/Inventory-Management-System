@@ -15,11 +15,11 @@ The following lines state the data structures used along with their function:
 To make the search time of the binary trees efficient, we had to make a function "generate_code" that is dedicated to creating IDs
 for our objects. That's because nodes in binary trees inside our program are identified and searched for by their IDs.
 Hence, we had to implement to function to balance the binary trees for optimizing the time efficiency. Time efficiency of binary trees in our program are best 
-- always Log(N) - thanks to this function. 
+- always O(Log(N)) - thanks to this function. 
 
 Finally, to make the user experience more easier and increase his interaction, we made a GUI for this program. 
 You can find a screen recording while the GUI program was running in the repository.
 
 To run the program, download the c++ files along with their header files. Run the main program and use it.
 To run the GUI version, please make sure you first have this program installed: https://www.embarcadero.com/products/cbuilder. 
-After installing it, run the file inside the debug folder.
+After installing it, run the file inside the debug folder. Everything will be stored inside txt files inside this folder.
